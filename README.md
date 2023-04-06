@@ -3,3 +3,5 @@
 ### Conceitos aplicados neste repositório:
 
 ### CSS Flexbox
+
+![print sucesso flex](./img/print_success.png)
